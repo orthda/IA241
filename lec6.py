@@ -19,13 +19,3 @@ for num in num_list:
         max_item = num
 
 print(max_item)
-
-num_list= [213,321,123,312]
-
-max_item = 0
-
-for num in num_list:
-    if max_item<= num:
-        max_item = num 
-        
-print(max_item)
